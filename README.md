@@ -3,7 +3,7 @@
  
 <!-- ABOUT THE PROJECT -->
 ## Hello! My name is Melodi Clark and welcome to my GitHub page! 👋
-I am a technical artist with a BFA degree in computer animation, currently enrolled at Animschool!
+I am a technical artist with a BFA degree in computer animation, currently enrolled at AnimSchool!
 * []() 💻My Portfolio Website: **WIP [New Professional website in development]**
 * []() 📫Reach out via email at: **melodic3d [at] gmail [dot] com**
 
