@@ -5,6 +5,7 @@
 ## Hello! My name is Melodi Clark and welcome to my GitHub page! 👋
 I am a technical artist with a BFA in Computer Animation, currently enrolled at AnimSchool!
 * []() 💻My Portfolio Website: **WIP [New Portfolio & Technical Art Reel — Coming Late 2026]**
+* CV Toolkit Showcase: https://vimeo.com/1229311150?share=copy&fl=sv&fe=ci
 * []() 📫Reach out via email at: **melodic3d [at] gmail [dot] com**
 
 ### Interested? Connect on:
