@@ -14,5 +14,5 @@ I am a technical artist with a BFA in Computer Animation, currently enrolled at 
   <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="50" height="50" alt="Icon Description">
 </a>
 <a href="https://www.artstation.com/melodi3d">
-  <img src="assets/artstation.svg" width="50" height="50" alt="ArtStation">
+  <img src="https://cdn.simpleicons.org/artstation/13AFF0" width="50" height="50" alt="ArtStation">
 </a>
