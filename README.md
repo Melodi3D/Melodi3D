@@ -4,7 +4,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Hello! My name is Melodi Clark and welcome to my GitHub page! 👋
 I am a technical artist with a BFA in Computer Animation, currently enrolled at AnimSchool!
-* []() * 💻 My Portfolio: [melodi3d.artstation.com](https://www.artstation.com/melodi3d)
+* []() 💻 My Portfolio: [melodi3d.artstation.com](https://www.artstation.com/melodi3d)
 
 * **CV Toolkit Demo Reel:** [Watch the Tool Showcase on Vimeo](https://vimeo.com/1229311150?share=copy&fl=sv&fe=ci)
 * []() 📫Reach out via email at: **melodic3d [at] gmail [dot] com**
