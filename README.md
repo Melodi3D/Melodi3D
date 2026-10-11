@@ -7,7 +7,7 @@ I am a technical artist with a BFA in Computer Animation, currently enrolled at 
 * []() 💻 My Portfolio: [melodi3d.artstation.com](https://www.artstation.com/melodi3d)
 
 * **CV Toolkit Demo Reel:** [Watch the Tool Showcase on Vimeo](https://vimeo.com/1229311150?share=copy&fl=sv&fe=ci)
-* []() 📫Reach out via email at: **melodic3d [at] gmail [dot] com**
+* []() Reach out via email at: **melodic3d [at] gmail [dot] com**
 
 ### Interested? Connect on:
 <a href="https://www.linkedin.com/in/melodiclark/">
